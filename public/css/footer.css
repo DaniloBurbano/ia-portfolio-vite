@@ -1,0 +1,32 @@
+footer {
+  display: flex;
+  width: 100%;
+  height: 5em;
+  background-color: var(--footerBarColor);
+  margin-top: 5em;
+}
+
+/* h4 {
+  text-align: center;
+  font-size: calc(var(--sizeFactor) * 1);
+  color: rgb(255, 255, 255);
+  margin: 1em;
+  width: 8em;
+} */
+
+.footer-text {
+  font-size: calc(var(--sizeFactor) * 1.1);
+  color: rgb(255, 255, 255);
+}
+
+.footer-logo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5em;
+}
+
+.footer-logo img {
+  width: calc(var(--sizeFactor) * 4);
+}

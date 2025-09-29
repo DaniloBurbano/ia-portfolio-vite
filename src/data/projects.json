@@ -1,0 +1,29 @@
+[
+  {
+    "id": "arq-1",
+    "title": "Casa unifamiliar moderna",
+    "category": "Arquitectura",
+    "description": "Diseño y construcción de vivienda unifamiliar con enfoque bioclimático.",
+    "year": 2023,
+    "location": "Manizales, Caldas",
+    "image": "/images/img9.jpg"
+  },
+  {
+    "id": "struct-1",
+    "title": "Diseño estructural de viaducto",
+    "category": "Ingeniería Estructural",
+    "description": "Modelado y dimensionamiento de viaducto en concreto postensado.",
+    "year": 2022,
+    "location": "La Dorada, Caldas",
+    "image": "/images/img10.png"
+  },
+  {
+    "id": "hyd-1",
+    "title": "Red contra incendio en centro logístico",
+    "category": "Ingeniería Hidráulica",
+    "description": "Diseño de red de hidrantes y rociadores cumpliendo NFPA.",
+    "year": 2024,
+    "location": "Antioquia",
+    "image": "/images/img8.png"
+  }
+]
